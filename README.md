@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋
 Product and Engineering leader, recovering software engineer, technology generalist.
 
-*Current VPE at* <a href="https://kno2.com" target="_blank">Kno2</a>
+*Current: VPE at* <a href="https://kno2.com" target="_blank">Kno2</a>
 
 *Let's Connect:*
 
