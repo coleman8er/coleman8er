@@ -1,9 +1,15 @@
-### Hi there, I'm Andrew 👋
-Product and Engineering leader, recovering software engineer, technology generalist.
+### Hi, I'm Andrew 👋                                                                                                             
+Engineering leader who still (tries to) write code. Building at the intersection of artificial intelligence and human intuition; trying to keep humanity intact while the robots get smarter.
+                                                                                                                                    
+**Currently:** VPE at [Kno2](https://kno2.com), where we operate a national healthcare network. Before that, a long career of building things and breaking things in roughly equal measure.
 
-*Current: VPE at* <a href="https://kno2.com" target="_blank">Kno2</a>
+**What I'm thinking about:**
+  - AI that actually help humans work, not replace the thinking
+  - Reliability engineering for systems that can't go down
+  - How engineering teams adapt without losing craft
 
-*Let's Connect:*
+**Let's build something:**
 
-<a href="https://www.linkedin.com/in/coleman2049/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/coleman8er/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/coleman8er)
+[![X](https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white)](https://x.com/coleman8er)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleman2049/)
