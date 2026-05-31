@@ -2,7 +2,7 @@
 
 I build teams, products, and systems. I've spent the last two decades helping organizations untangle complexity and turn ideas into software that ships. Lately I'm obsessed with agentic engineering, leverage, and how small teams can accomplish what once required entire departments.
 
-**Currently:** CTO at [Fresh Technology](https://freshtechnology.com).
+**Currently:** CTO at [Fresh Technology](https://www.fresh.technology/).
 The operating system between the POS and the food.
 
 Previously VP Engineering at [Kno2](https://kno2.com), a federally designated QHIN for United States healthcare interoperability.
