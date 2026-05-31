@@ -1,12 +1,16 @@
-### Hi, I'm Andrew 👋                                                                                                             
-Engineering leader who still (tries to) write code. Building at the intersection of artificial intelligence and human intuition; trying to keep humanity intact while the robots get smarter.
-                                                                                                                                    
-**Currently:** VPE at [Kno2](https://kno2.com), where we operate a national healthcare network. Before that, a long career of building things and breaking things in roughly equal measure.
+# Hi, I'm Andrew
+
+I build teams, products, and systems. I've spent the last two decades helping organizations untangle complexity and turn ideas into software that ships. Lately I'm obsessed with agentic engineering, leverage, and how small teams can accomplish what once required entire departments.
+
+**Currently:** CTO at [Fresh Technology](https://freshtechnology.com).
+The operating system between the POS and the food.
+
+Previously VP Engineering at [Kno2](https://kno2.com), a federally designated QHIN for United States healthcare interoperability.
 
 **What I'm thinking about:**
-  - AI that actually help humans work, not replace the thinking
-  - Reliability engineering for systems that can't go down
-  - How engineering teams adapt without losing craft
+- Operating models where AI is a force multiplier, not a substitute
+- Reliability engineering for real-time platforms that fail loudly
+- How engineering teams adapt without losing the craft
 
 **Let's build something:**
 
