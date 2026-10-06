@@ -1,16 +1,10 @@
-# Hi, I'm Andrew
+# Andrew Coleman
 
-I build teams, products, and systems. I've spent the last two decades helping organizations untangle complexity and turn ideas into software that ships. Lately I'm obsessed with agentic engineering, leverage, and how small teams can accomplish what once required entire departments.
-
-**Currently:** CTO at [Fresh Technology](https://www.fresh.technology/).
-The operating system between the POS and the food.
+**Currently:** CTO at [Fresh Technology](https://www.fresh.technology/) where we're building AI on top of the kitchen display systems that restaurants run on.
 
 Previously VP Engineering at [Kno2](https://kno2.com), a federally designated QHIN for United States healthcare interoperability.
 
-**What I'm thinking about:**
-- Operating models where AI is a force multiplier, not a substitute
-- Reliability engineering for real-time platforms that fail loudly
-- How engineering teams adapt without losing the craft
+I build engineering teams. Lately that means small teams working alongside AI agents.
 
 **Let's build something:**
 
